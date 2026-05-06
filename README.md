@@ -3,8 +3,14 @@
 # Sistema de Estacionamento
 
 ## Nome e matrícula
-Nome: 
-Matrícula: 
+Nome: Israelle Rode Reis de Cristo
+Matrícula: 20250020279
+
+Nome: Erick Gabriel de Oliveira Saraiva
+Matrícula: 20250020410
+
+Nome: Enzo Azevedo Soares
+Matrícula: 20240005591
 
 ---
 
